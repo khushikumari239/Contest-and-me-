@@ -1,3 +1,6 @@
+
+// You are given two positive integers  and Determine whether the product of and is even or odd...
+
 #include <bits/stdc++.h>
 using namespace std;
 
